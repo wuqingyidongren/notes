@@ -12,7 +12,7 @@ make distclean
 
 ​	uboot\board\amlogic\configs 
 
-编译完之后执行：
+编译完之后执行： 
 
 ```
 #!/bin/bash
