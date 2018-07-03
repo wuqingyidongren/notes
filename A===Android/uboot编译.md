@@ -10,7 +10,7 @@ make distclean
 
 ​	uboot\board\amlogic\gxl_p231_v1\Kconfig
 
-​	uboot\board\amlogic\configs 
+​	uboot\board\amlogic\configs  
 
 编译完之后执行：
 
